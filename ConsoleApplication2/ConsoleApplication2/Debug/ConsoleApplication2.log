@@ -1,0 +1,10 @@
+﻿  stdafx.cpp
+  ConsoleApplication2.cpp
+c:\users\kyoun\source\repos\consoleapplication2\consoleapplication2\consoleapplication2.cpp(6): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다.
+c:\users\kyoun\source\repos\consoleapplication2\consoleapplication2\consoleapplication2.cpp(7): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다.
+c:\users\kyoun\source\repos\consoleapplication2\consoleapplication2\consoleapplication2.cpp(8): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다.
+c:\users\kyoun\source\repos\consoleapplication2\consoleapplication2\consoleapplication2.cpp(59): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\kyoun\source\repos\consoleapplication2\consoleapplication2\consoleapplication2.cpp(144): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\kyoun\source\repos\consoleapplication2\consoleapplication2\consoleapplication2.cpp(146): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kyoun\source\repos\consoleapplication2\consoleapplication2\consoleapplication2.cpp(147): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  ConsoleApplication2.vcxproj -> C:\Users\kyoun\source\repos\ConsoleApplication2\Debug\ConsoleApplication2.exe

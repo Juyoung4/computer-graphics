@@ -1,9 +1,0 @@
-﻿  Node.cpp
-c:\users\kyoun\source\repos\consoleapplication4\consoleapplication4\node.cpp(51): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-c:\users\kyoun\source\repos\consoleapplication4\consoleapplication4\node.cpp(53): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-c:\users\kyoun\source\repos\consoleapplication4\consoleapplication4\node.cpp(87): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-c:\users\kyoun\source\repos\consoleapplication4\consoleapplication4\node.cpp(108): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-c:\users\kyoun\source\repos\consoleapplication4\consoleapplication4\node.cpp(110): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-c:\users\kyoun\source\repos\consoleapplication4\consoleapplication4\node.cpp(157): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-c:\users\kyoun\source\repos\consoleapplication4\consoleapplication4\node.cpp(159): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-  ConsoleApplication4.vcxproj -> C:\Users\kyoun\source\repos\ConsoleApplication4\Debug\ConsoleApplication4.exe
